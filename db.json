@@ -1,0 +1,22 @@
+{
+    "flights": [
+      {
+        "flightData": "25/08/2021",
+        "id": "1572IBE",
+        "origin": "Granada",
+        "destination": "Los Ángeles",
+        "departureTime": 11.45,
+        "arrivalTime": 13.25,
+        "directFlight": true,
+        "scales": {
+          "firstScale": "",
+          "secondScale": ""
+          },
+        "company": "Iberia",
+        "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+        "price": 90,
+        "cityImg": "https://www.hola.com/imagenes/viajes/20190204136803/malaga-48-horas-guia-ciudad/0-643-940/malaga-t.jpg",
+        "handLugagge": true
+        }
+    ]
+}
